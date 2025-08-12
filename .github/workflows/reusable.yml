@@ -5,4 +5,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Output Information
-        run: exho "Deploying and uploading...."
+        run: echo "Deploying and uploading...."
